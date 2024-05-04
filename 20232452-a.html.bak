@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>个人介绍</title>
+ </head>
+ <body>
+    <h1>个人介绍<h1>
+       <img src="file:///C:/Users/Administrator/Documents/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240305234302.jpg">
+      <P>姓名：周峰南</P>
+      <P>年龄：19</p>
+      <p>职业：大学生</P>
+      <P>性格：爱好和平</p>
+	  <P>爱好：打游戏</p>
+   <style>
+
+table {
+   width:100%;
+   border-collapse: separate:
+   border: 2px solid red;
+}
+table,th,td{
+  padding: 15px;
+  text-align: left;
+}
+table {
+  color: blue;
+}
+table{
+  border: 2px solid red;
+}
+
+
+   </style>
+	<h2>课表</h2>
+<table>
+<tr>
+	<th>周1</th>
+	<th>周2</th>
+	<th>周3</th>
+	<th>周4</th>
+	<th>周5</th>
+	<th>周6</th>
+	<th>周7</th>
+</tr>
+<tr>
+	<td>中国近代史</td>
+	<td>     </td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>wed程序设计</td>
+	<td></td>
+</tr>
+<tr>
+	<td>中国近代史</td>
+	<td>     </td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>wed程序设计</td>
+	<td></td>
+</tr>
+<tr>
+	<td>中国近代史</td>
+	<td>      </td>
+	<td></td>
+	<td>高数</td>
+	<td></td>
+	<td>wed程序设计</td>
+	<td></td>
+</tr>
+<tr>
+	<td>      </td>
+	<td>     </td>
+	<td></td>
+	<td>高数</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>python</td>
+	<td>     </td>
+	<td></td>
+	<td>体育</td>
+	<td>英语</td>
+	<td>军事理论</td>
+	<td></td>
+</tr>
+<tr>
+	<td>python</td>
+	<td>     </td>
+	<td></td>
+	<td>体育</td>
+	<td>英语</td>
+	<td>军事理论</td>
+	<td></td>
+</tr>
+<tr>
+	<td>python</td>
+	<td>     </td>
+	<td></td>
+	<td></td>
+	<td>英语</td>
+	<td>军事理论</td>
+	<td></td>
+</tr>
+<tr>
+	<td>     </td>
+	<td>     </td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>     </td>
+	<td>     </td>
+	<td>代数</td>
+	<td>概率论</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>     </td>
+	<td>     </td>
+	<td>代数</td>
+	<td>概率论</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>高数</td>
+	<td>    </td>
+	<td>代数</td>
+	<td>概率论</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>高数</td>
+	<td>    </td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+
+</table>
+ </body>
+</html>
